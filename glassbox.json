@@ -1,0 +1,108 @@
+{
+  "slug": "backclear",
+  "box": 199,
+  "date": "2026-11-05",
+  "title": "BackClear",
+  "question": "How do you build your back muscles?",
+  "hook": "In a pull-up you lift your whole body, and in a deadlift your back muscles pull thousands of newtons from 5.5 cm behind your spine. Peel the back's layers, pick a grip and watch which muscles shorten, work out the lever on your lowest disc, and learn how to train it safely.",
+  "thumbText": "HOW A BACK GETS STRONG",
+  "field": "body",
+  "minutes": 15,
+  "tags": [
+    "back muscles",
+    "latissimus dorsi",
+    "trapezius",
+    "erector spinae",
+    "pull-up",
+    "deadlift",
+    "hip hinge",
+    "spine",
+    "strength training",
+    "back pain",
+    "human body",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A back is a stack of muscles",
+      "text": "Wide sheets on top (trapezius and the latissimus dorsi, which runs from your lower spine to the front of your upper arm), rhomboids and teres major beneath, and the erector spinae and multifidus running beside 24 vertebrae and their discs."
+    },
+    {
+      "title": "Where your elbows go decides what works",
+      "text": "Pulling down (pull-ups, pulldowns) shortens the lats and teres major most; rows squeeze the shoulder blades together with the rhomboids and middle trapezius. A pull-up lifts all of your body weight; bands, negatives, pulldowns and inverted rows (about two thirds of you when level) build up to it."
+    },
+    {
+      "title": "A deadlift is a lever",
+      "text": "The moment on your lowest disc is each weight times its horizontal distance from it. The back muscles pull only about 5.5 cm behind the spine, so a 100 kg bar needs about 7 kN from them. Let the bar drift 15 cm forward and the moment rises by about a third: keep it close, brace, keep a neutral spine."
+    },
+    {
+      "title": "How it grows",
+      "text": "Hard sets near failure, about 10 or more a week per muscle, two or more days a week (WHO), a little more over time, about 0.83 g of protein per kg a day from food (ICMR-NIN), and sleep. Strength comes first from your nerves; size takes weeks to months."
+    },
+    {
+      "title": "Posture myths and back pain",
+      "text": "No single posture is proven to prevent back pain: move often. Low back pain is the world's leading cause of disability, and exercise is part of its treatment (WHO, NHS, Cochrane)."
+    },
+    {
+      "title": "Train safely",
+      "text": "Ask a doctor first with heart disease, high blood pressure, pregnancy or a recent injury. Start light, technique first, stop on sharp pain or pain spreading down a leg, and know the NHS red flags. Anabolic steroids are harmful and banned."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Latissimus dorsi",
+      "def": "The widest back muscle; it pulls the arm down and back."
+    },
+    {
+      "term": "Trapezius",
+      "def": "A diamond of muscle from skull to mid-back that lifts, squeezes and lowers the shoulder blades."
+    },
+    {
+      "term": "Erector spinae",
+      "def": "Long columns of muscle beside the spine that straighten and hold it."
+    },
+    {
+      "term": "Scapular retraction",
+      "def": "Pulling the shoulder blades towards the spine, as in a row."
+    },
+    {
+      "term": "Hip hinge",
+      "def": "Bending by folding at the hips with a fairly straight back."
+    },
+    {
+      "term": "Moment",
+      "def": "A turning effect: force times its distance from the pivot."
+    },
+    {
+      "term": "Neutral spine",
+      "def": "The spine with its natural curves, neither rounded nor arched hard."
+    },
+    {
+      "term": "Progressive overload",
+      "def": "Slowly asking more of a muscle over weeks: more reps, weight or sets."
+    },
+    {
+      "term": "Red flag",
+      "def": "A warning sign with back pain that needs urgent medical help."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "backclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
